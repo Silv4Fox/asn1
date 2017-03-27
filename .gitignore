@@ -10,3 +10,5 @@
 /packages/*/
 /build/output
 /build/package
+.vs/
+*.user
